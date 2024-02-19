@@ -7,7 +7,7 @@ shortuuid
 accelerate==0.21.0
 peft==0.4.0
 bitsandbytes==0.41.0
-pydantic<2,>=1
+pydantic==1.10.14
 markdown2[all]
 numpy
 scikit-learn==1.2.2
