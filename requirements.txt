@@ -11,7 +11,7 @@ pydantic==1.10.14
 markdown2[all]
 numpy
 scikit-learn==1.2.2
-gradio==3.37.0
+gradio==4.19.2
 gradio_client==0.7.0
 requests
 httpx==0.24.0
