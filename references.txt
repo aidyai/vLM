@@ -1,1 +1,2 @@
 https://www.codewithfaraz.com/article/103/50-html-css-and-javascript-projects-with-source-code-for-beginners#10-breadcrumb
+https://github.com/bradtraversy/50projects50days?tab=readme-ov-file
